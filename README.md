@@ -1,1 +1,2 @@
 # Classification-of-CIFAR-10-Data
+CIFAR-10 is a dataset that consists of several images divided into the following 10 (0-9) classes respectively: Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, Trucks. A model is created to classify the images correctly with respective to its classes. The dataset consists of 60,000 32x32 colour images, 6,000 images of each class.The deep learning model created has obtained an accuracy of 83.81% on the validation dataset.
